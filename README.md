@@ -1,7 +1,7 @@
 # AssignmentM4
 Coursera course: HTML, CSS, and Javascript for Web Developers, Module 4 Coding Assignment, completed.
 
-Link : 
+Link : https://tadithyad.github.io/AssignmentM4/
 
 Let's write a little bit of Javascript programming code to practice what we've learned! Woohoo! :-)
 
